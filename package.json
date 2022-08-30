@@ -1,0 +1,45 @@
+{
+  "name": "curriculo",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://r3n4nr.github.io/curriculoAstronauta/",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.2.0",
+    "flickity": "2.3.0",
+    "gh-pages": "^4.0.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-bootstrap-accordion": "^1.0.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.69.5",
+    "react-native-snap-carousel": "4.0.0-beta.6",
+    "react-responsive-carousel": "^3.2.23",
+    "react-scripts": "5.0.1",
+    "rerousel": "^0.1.9",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {}
+}
