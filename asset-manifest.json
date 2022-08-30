@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/curriculoAstronauta/static/css/main.841a525c.css",
+    "main.js": "/curriculoAstronauta/static/js/main.1bedc8b2.js",
+    "static/media/background_spaceman.gif": "/curriculoAstronauta/static/media/background_spaceman.84f98974180c93962f4f.gif",
+    "index.html": "/curriculoAstronauta/index.html",
+    "main.841a525c.css.map": "/curriculoAstronauta/static/css/main.841a525c.css.map",
+    "main.1bedc8b2.js.map": "/curriculoAstronauta/static/js/main.1bedc8b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.841a525c.css",
+    "static/js/main.1bedc8b2.js"
+  ]
+}
